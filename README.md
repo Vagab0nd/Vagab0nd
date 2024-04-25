@@ -1,7 +1,10 @@
-### Hi there, I'm Michał Kurek👋
+## Hi there, I'm Michał Kurek👋
 
 ### I'm a full stack .net developer and a fan of video games.
+
 - 🎮 I’m currently working on [AniDb.Api](https://github.com/Vagab0nd/AniDB.Api) in my spare time.
+- 📫 How to reach me:
+  - [x]: https://twitter.com/mike_kurek
 
 <details>
   <summary>:zap: GitHub Stats</summary>
