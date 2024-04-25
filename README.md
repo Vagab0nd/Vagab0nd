@@ -4,7 +4,7 @@
 
 - 🎮 I’m currently working on [AniDb.Api](https://github.com/Vagab0nd/AniDB.Api) in my spare time.
 - 📫 How to reach me:
-  - [x]: https://twitter.com/mike_kurek
+  - [X/Twitter](https://twitter.com/mike_kurek)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
